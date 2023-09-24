@@ -59,4 +59,4 @@ try {
 }
 
 // Export the Express app and server if needed.
-export { app, server };
+export default { app, server };
